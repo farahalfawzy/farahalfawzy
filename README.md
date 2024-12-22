@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Farah!
 
-Welcome to my GitHub profile! I'm a student passionate about **Data Science**, **Backend Development**, and **Mobile App Development**. Here, you'll find a collection of my projects that reflect my journey in exploring various technologies and solving real-world problems.
+
+I'm a Computer Engineering student passionate about **Data Science**, **Backend Development**, and **Mobile App Development**. 
 
 ---
 
