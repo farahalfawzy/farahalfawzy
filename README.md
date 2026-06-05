@@ -11,15 +11,7 @@ I'm a Computer Engineering student passionate about **Data Science**, **Backend 
 - 🛠️ **Tech Stack:** Python, Java, React, Node.js, MongoDB, Flutter
 - ✉️ **Contact Me:** farah.alfawzy@gmail.com
 
-
 ---
-
-## 📊 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farahalfawzy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 
 ## 🛠️Language and Tools
 <p align="left"> 
